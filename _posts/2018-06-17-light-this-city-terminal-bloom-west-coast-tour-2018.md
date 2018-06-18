@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-06-17 00:24:21
 ---
-<img class="alignnone  wp-image-86" src="https://wastewalker.net/wp-content/uploads/2018/06/b93ead683e-240x300.jpg" alt="" width="340" height="425" />
+<img class="alignnone size-medium wp-image-117" src="https://wastewalker.net/wp-content/uploads/2018/06/35242692_1769667646404066_4837670588904374272_n-1-194x300.jpg" alt="" width="194" height="300" />
