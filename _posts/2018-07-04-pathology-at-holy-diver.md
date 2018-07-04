@@ -1,6 +1,6 @@
 ---
 ID: 147
-post_title: Pathology at Holy Diver
+post_title: 'Pathology at Holy Diver &#8211; Monday August 6th'
 author: wastewalker
 post_excerpt: ""
 layout: post
