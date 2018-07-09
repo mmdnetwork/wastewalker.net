@@ -1,6 +1,6 @@
 ---
 ID: 35
-post_title: Wastewalker Official Website
+post_title: ""
 author: wastewalker
 post_excerpt: ""
 layout: page
